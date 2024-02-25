@@ -1,0 +1,8 @@
+htbuilder
+pandas
+streamlit
+seaborn
+Pillow
+sweetviz
+matplotlib
+sklearn
